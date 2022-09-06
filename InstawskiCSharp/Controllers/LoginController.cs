@@ -22,6 +22,7 @@ namespace InstawskiCSharp.Controllers
         {
             try
             {
+                ""
                 throw new ArgumentException("Erro ao preencher os dados");
             }
             catch(Exception ex)
